@@ -3,3 +3,5 @@
 #the full copyright notices and license terms.
 
 from .test_stock_supply_best_supplier import suite
+
+__all__ = ['suite']
